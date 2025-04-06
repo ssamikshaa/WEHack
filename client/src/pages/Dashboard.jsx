@@ -1,8 +1,18 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Button } from "@mui/material";
 import "../styles.css";
+import data from '../data.json'
 
 const Dashboard = () => {
+  
+  const [data, setData] = useState({});
+
+  useEffect(() => {
+    setData(data);
+  }, []);
+
+  
+
   return (
     <body className="flex overflow-auto">
       <div class="top-bar-start">
