@@ -1,0 +1,106 @@
+{
+    "companies": [
+        {
+            "name": "Apple",
+            "symbol": "AAPL",
+            "industry": "Consumer Electronics",
+            "revenue": [164.66,169.58,188.38],
+            "strengths": "Strong brand reputation and customer loyalty, innovative product design, strong financial performance",
+            "weaknesses": "Reliance on a limited product range, high pricing strategy, dependency on a single product (iPhone)",
+            "opportunities": "Expansion into emerging markets, diversification into new product categories, growth in service offerings (Apple Music, Apple TV+)",
+            "threats": "Intense competition in the tech industry, dependence on key suppliers, changes in consumer preferences"
+        },
+        {
+            "name": "Verison",
+            "symbol": "VZ",
+            "industry": "Telecommunications",
+            "revenue": [39.48,42.12,43.03],
+            "strengths": "1. Strong brand recognition and reputation in the telecommunications industry. 2. Diverse portfolio of services including wireless, broadband, and media offerings 3. Extensive network coverage and infrastructure that enables reliable service delivery. 4. Strong focus on customer service and satisfaction.",
+            "weaknesses": "1. Intense competition in the telecommunications market leading to pricing pressures. 2. Limited presence in certain international markets compared to competitors. 3. High capital expenditure requirements for continued network upgrades and expansions. 4. Dependence on third-party vendors and suppliers for certain key components.",
+            "opportunities": "1. Expansion into emerging technologies such as 5G, IoT, and cloud services. 2. Potential growth in the enterprise market through targeted solutions and services. 3. Partnerships and collaborations with content providers to enhance media offerings. 4. Expansion into new geographic markets to diversify revenue streams.",
+            "threats": "1. Rapid technological advancements leading to obsolescence of existing services and products. 2. Regulatory changes impacting pricing structures and competition in the industry. 3. Cybersecurity threats and data breaches that could compromise customer trust. 4. Economic uncertainties impacting consumer spending and demand for services."
+        },
+        {
+            "name": "CBRE",
+            "symbol": "CBRE",
+            "industry": "Commercial Real Estate",
+            "revenue": [70.31,96.14,118.08],
+            "strengths": "1. Leading global real estate services and investment firm 2. Diversified service offerings including brokerage, facilities management, and investment management 3. Strong brand recognition and reputation 4. Extensive network and global reach",
+            "weaknesses": "1. Dependency on economic cycles and real estate market fluctuations 2. Inherent risk in the real estate industry 3. High competition from other real estate firms 4. Reliance on key talent and expertise",
+            "opportunities": "1. Expansion into emerging markets and sectors 2. Technology integration for operational efficiency 3. Strategic partnerships and acquisitions to enhance service offerings 4. Growing demand for sustainable and green building solutions",
+            "threats": "1. Economic recession impacting real estate market demand 2. Regulatory changes affecting the real estate industry 3. Rapid technological advancements disrupting traditional real estate practices 4. Competition from tech-driven real estate startups"
+        },
+        {
+            "name": "Capital One",
+            "symbol": "COF",
+            "industry": "Financial Services",
+            "revenue": [94.93,143.52,150.57],
+            "strengths": "1. Strong brand recognition and reputation in the financial services industry. 2. Diverse range of financial products and services offered. 3. Innovative technology solutions for customer convenience.",
+            "weaknesses": "1. Reliance on traditional banking model which may limit agility in a rapidly changing market. 2. Limited physical presence compared to traditional banks. 3. Vulnerability to cybersecurity threats.",
+            "opportunities": "1. Expansion into new markets and demographics. 2. Growth potential in the digital banking sector. 3. Increasing demand for online banking services.",
+            "threats": "1. Intense competition from other financial institutions and fintech companies. 2. Regulatory changes impacting the financial services industry. 3. Economic downturns affecting consumer spending and financial stability."
+        },
+        {
+            "name": "Pepsi",
+            "symbol": "PEP",
+            "industry": "Food and Beverage",
+            "revenue": [184.36,169.14,146.61],
+            "strengths": "Strong brand recognition and awareness, diverse product portfolio, global presence, successful marketing campaigns",
+            "weaknesses": "Dependency on sugary drinks, competition from other beverage companies, negative health perceptions associated with carbonated drinks",
+            "opportunities": "Growing demand for healthier beverage options, expanding into new markets, diversifying product offerings to include more health-conscious options",
+            "threats": "Changing consumer preferences towards healthier choices, increasing government regulations on sugary beverages, intense competition in the beverage industry"
+        },
+        {
+            "name": "IBM",
+            "symbol": "IBM",
+            "industry": "Information Technology Services",
+            "revenue": [130.50,189.14,227.48],
+            "strengths": "Strong brand recognition and history of innovation in the technology industry",
+            "weaknesses": "High dependence on legacy hardware and software products, slowing growth in emerging markets",
+            "opportunities": "Expansion into cloud computing services, artificial intelligence, and cybersecurity markets",
+            "threats": "Intense competition from rivals like Microsoft and Google, market saturation in some product segments"
+        },
+        {
+            "name": "Google",
+            "symbol": "GOOG",
+            "industry": "Technology",
+            "revenue": [108.90,153.94,147.74],
+            "strengths": "1. Strong brand recognition and market presence. 2. Diverse range of products and services. 3. High level of innovation and technology development. 4. Extensive user data and analytics capabilities.",
+            "weaknesses": "1. Dependence on advertising revenue. 2. Limited success in certain markets (e.g. social media). 3. Privacy concerns and regulatory challenges. 4. Competition from other tech companies.",
+            "opportunities": "1. Growth in cloud computing and enterprise services. 2. Expansion into new markets and industries. 3. Strategic partnerships and acquisitions. 4. Continued investment in artificial intelligence and machine learning.",
+            "threats": "1. Increasing competition in search and advertising. 2. Data privacy regulations impacting revenue streams. 3. Cybersecurity threats and data breaches. 4. Political and regulatory scrutiny over market dominance."
+        },
+        {
+            "name": "Coca-cola",
+            "symbol": "KO",
+            "industry": "Beverage",
+            "revenue": [62.84,59.51,69.93],
+            "strengths": "1. Strong brand recognition and reputation globally. 2. Wide range of product offerings. 3. Established distribution network. 4. Strong marketing and advertising capabilities.",
+            "weaknesses": "1. Dependency on carbonated beverages which are facing a decline in consumption. 2. Negative publicity regarding health concerns linked to sugary drinks. 3. Vulnerability to changes in consumer preferences.",
+            "opportunities": "1. Diversification into healthier beverage options. 2. Expansion into emerging markets. 3. Acquisition of smaller brands to innovate product portfolio. 4. Development of sustainable packaging solutions.",
+            "threats": "1. Intense competition in the beverage industry. 2. Changes in regulations and taxation impacting sugary drinks. 3. Shift towards healthier lifestyles impacting sales of traditional sodas. 4. Fluctuations in raw material costs."
+        },
+        {
+            "name": "Nike",
+            "symbol": "NKE",
+            "industry": "Apparel Accessories Sports Equipment",
+            "revenue": [120.22,88.84,57.25],
+            "strengths": "Strong brand recognition globally, innovative product design and technology, extensive distribution network, diverse product range",
+            "weaknesses": "Heavy reliance on overseas manufacturing, vulnerability to changing economic conditions, competition from other major sportswear brands",
+            "opportunities": "Expansion into emerging markets, growth potential in the athleisure market segment, development of sustainable and eco-friendly product lines",
+            "threats": "Rapidly changing consumer preferences, counterfeit products impacting brand reputation, potential supply chain disruptions"
+        },
+        {
+            "name": "Nintendo",
+            "symbol": "NTDOY",
+            "industry": "Video Games Electronics",
+            "revenue": [10,12.77,15.89],
+            "strengths": "Iconic gaming brands like Mario, Zelda, and Pokemon. Strong fan loyalty and brand recognition. Innovative gaming consoles such as the Nintendo Switch.",
+            "weaknesses": "Limited third-party game support compared to competitors like Sony and Microsoft. Dependence on a few key franchises for revenue. Vulnerability to changing gaming trends.",
+            "opportunities": "Expanding into mobile gaming market. Collaborations with other media companies to create new entertainment experiences. Expanding into emerging markets like China.",
+            "threats": "Competition from other gaming companies like Sony and Microsoft. Rapid technological advancements in the gaming industry. Piracy and unauthorized distribution of games."
+        } 
+    ]
+}
+    
+
