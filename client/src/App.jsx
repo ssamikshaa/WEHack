@@ -6,7 +6,7 @@ import axios from "axios";
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
+import Home from "./pages/Dashboard";
 import Landing from "./pages/Landing";
 import Loading from "./pages/Loading";
 
@@ -14,13 +14,10 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/Home" element={<Home />} />
+        <Route path="/Home" element={<Dashboard />} />
         <Route path="/Landing" element={<Landing />} />
         <Route path="/Loading" element={<Loading />} />
       </Routes>
     </BrowserRouter>
   );
 }
-
-//const root = ReactDOM.createRoot(document.getElementById("root"));
-//oot.render(<App />);
